@@ -22,3 +22,6 @@ The `1.` would happen as soon as the flags list would check both the penultimo e
 
 # Metric:
 1. Understanding of the bug: 7/10
+
+# Attack Vector:
+No checking of edge-case.
