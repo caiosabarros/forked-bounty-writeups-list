@@ -1,8 +1,8 @@
 - All submitted reports of Beanstalk: [Reports](https://community.bean.money/bug-reports)<br/>
 - Better & more comprehensive list: [SCV-List](https://github.com/sirhashalot/SCV-List)
 
-| bounty  amount      | **severity** | **write-up**                                                                                                                       | **whitehat**                                                                             |
-|---------------|--------------|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| bounty  amount      | **severity** | **write-up**                                                                                                                       | **whitehat** | ReadUp/Practiced                                                                              | 
+|---------------|--------------|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------------|
 | 10M           | Critical     | [Wormhole](https://medium.com/immunefi/wormhole-uninitialized-proxy-bugfix-review-90250c41a43a)                                    | [satya0x](https://twitter.com/satya0x)                                                   |
 | 6M            | Critical     | [Aurora](https://pwning.mirror.xyz/CB4XUkbJVwPo7CaRwRmCApaP2DMjPQccW-NOcCwQlAs)                                                    | [pwning.eth](https://twitter.com/PwningEth)                                              |
 | 2M            | Critical     | [Optimism](https://medium.com/immunefi/optimism-infinite-money-duplication-bugfix-review-daa6597146a0)                             | [saurik](https://twitter.com/saurik)                                                     |
@@ -79,8 +79,8 @@
 | -                      | -            | [Perennial](https://mirror.xyz/0x9D6b7f5e8d1b9dFea8dDD29c0DbD81687e721601/mm_D_HrqfntAkGM1DvVQvy1WuPbj99pKYfRp-xDbs8U)                             | [Zach Obront](https://twitter.com/zachobront)                                            |
 | 100k                   | Critical     | [Silo](https://twitter.com/kankodu/status/1669833829203476480)                                                          | [kankodu](https://twitter.com/kankodu)                                                   |
 | 50K                    | Critical     | [Q Blockchain](https://medium.com/@blockian/striking-gold-at-30-000-feet-uncovering-a-critical-vulnerability-in-q-blockchain-for-50-000-ab335042147b) | [Blockian](https://twitter.com/_blockian)                                                |
-| -                      | -            | [Astroport](https://defihacklabs.substack.com/p/chainlight-patch-thursday-astroports?utm_source=profile&utm_medium=reader2)                           | [ChainLight](https://twitter.com/chainlight_io)                                          |
+| -                      | -            | [Astroport](https://defihacklabs.substack.com/p/chainlight-patch-thursday-astroports?utm_source=profile&utm_medium=reader2)                           | [ChainLight](https://twitter.com/chainlight_io)                                          |✔|
 | 50K                    | Critical     | [BendDAO](https://medium.com/@BendDAO/sewer-pass-flash-claim-vulnerability-9d2b0b1e09ef)                                                              | -                                                                                        |
-| -                      | Medium            | [OpenZeppelin](https://twitter.com/0xDACA/status/1669846430528286722)                                                                                 | [Daniel Cohen Hillel](https://twitter.com/0xDACA)                                        |
+| -                      | Medium            | [OpenZeppelin](https://twitter.com/0xDACA/status/1669846430528286722)                                                                                 | [Daniel Cohen Hillel](https://twitter.com/0xDACA)                                        | ✔| 
 
 
